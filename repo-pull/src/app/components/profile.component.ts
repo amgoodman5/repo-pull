@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {GithubServices} from '../services/github.service';
 
 @Component({
   moduleId: module.id,
